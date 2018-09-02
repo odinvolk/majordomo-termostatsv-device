@@ -1,2 +1,2 @@
 # majordomo-termostatv-device
-Простое устройство дополнительное addon (Termostats vector)
+Простое устройство дополнительное (Termostats vector)
