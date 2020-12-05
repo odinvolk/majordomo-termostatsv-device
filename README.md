@@ -1,2 +1,2 @@
 # majordomo-termostatv-device
-Простое устройство дополнительное (Termostats vector)
+Простое устройство дополнительное (Termostatsv)
